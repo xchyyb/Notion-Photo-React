@@ -3,10 +3,10 @@
 module.exports = {
     global: {
         site: {
-            name: 'Notion Photo React Example',
+            name: 'Notion Photo React',
             description: 'Photo Gallery built with Notion, React.JS, Next.JS, tailwindcss, TypeScript, notion-api-worker and more.',
             url: 'https://npr.okis.dev/',
-            author: 'Harry Yep',
+            author: '夏虫欲语冰',
             banner_img: `https://cdn.harrly.com/project/GitHub/Notion-Photo-React/img/Notion-Photo-React.Banner.png`,
             nav: [
                 {
@@ -17,7 +17,7 @@ module.exports = {
                 },
                 {
                     name: 'GitHub',
-                    url: 'https://github.com/okisdev',
+                    url: 'https://github.com/xchyyb',
                     external: true,
                     position: 'right',
                 },
@@ -38,7 +38,7 @@ module.exports = {
                 url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
             },
             footer: {
-                copyright: 'Copyright © 2023 Harry Yep. All rights reserved.',
+                copyright: 'Copyright © 2023 夏虫欲语冰. All rights reserved.',
             },
         },
         analytics: {
