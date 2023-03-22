@@ -22,11 +22,7 @@ module.exports = {
                     position: 'right',
                 },
             ],
-            language: [
-                { name: '🇬🇧 English', code: 'en-GB' },
-                { name: '🇨🇳 简体中文', code: 'zh-CN' },
-                { name: '🇭🇰 繁體中文', code: 'zh-HK' },
-            ],
+           
             font: '',
         },
         content: {
